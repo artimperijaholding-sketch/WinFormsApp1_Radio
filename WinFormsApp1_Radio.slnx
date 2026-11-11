@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RadioBrowserLibrary/RadioBrowserLibrary.csproj" />
+  <Project Path="RadioPlayBeckLabryry/RadioPlaybackLabrary.csproj" />
+  <Project Path="Utility/Utility.csproj" />
+  <Project Path="WinFormsApp1_Radio/WinFormsApp1_Radio.csproj" />
+</Solution>
